@@ -11,7 +11,7 @@ pip3 install torch torchaudio
 pip3 install -U modelscope
 pip3 install modelscope[audio] -f https://modelscope.oss-cn-beijing.aliyuncs.com/releases/repo.html
 
-pip3 install -U pydub
+pip3 install -U pydub funasr-onnx
 ```
 
 ## Run inference scripts
